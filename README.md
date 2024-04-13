@@ -1,5 +1,5 @@
 # Figma_basic_responsiveness
-##Description
+## Description
 This project aims to transform Figma designs into responsive HTML, CSS, and Bootstrap code suitable for both mobile (Android) and desktop platforms. By utilizing the provided designs, the project seeks to create visually appealing and functional web pages that maintain consistency across different screen sizes.
 
 ## Features
